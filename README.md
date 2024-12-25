@@ -1,6 +1,6 @@
 # Hi there, I'm Ansh 👋
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://envs.sh/Jsc.jpgtext=Welcome+to+My+GitHub+Profile)
 
 I’m a passionate **Full-Stack Web Developer** with experience in building dynamic and responsive websites and applications. I specialize in developing scalable, user-friendly solutions with modern web technologies.
 
