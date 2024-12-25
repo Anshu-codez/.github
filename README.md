@@ -1,4 +1,4 @@
-# Hi there, I'm Ansh 👋
+# Hɪ ᴛʜᴇʀᴇ , ɪ'ᴍ Aɴsʜᴜ 👋
 
 ![Profile Banner](https://envs.sh/Jsc.jpgtext=Welcome+to+My+GitHub+Profile)
 
@@ -23,9 +23,9 @@ I’m a passionate **Full-Stack Web Developer** with experience in building dyna
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshu908&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshu908&layout=compact&theme=radical)
 
 ---
 
